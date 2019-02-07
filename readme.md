@@ -81,18 +81,18 @@ By default the server runs on Port 3000, so to view the live site on your local 
 # Project Management [#](#table-of-contents)
 ### Wireframes
 * First we thought of the best way to interact with our mental survey site. Then we sketched some wireframes and then used balsamiq, and added user flow to finalize our thoughts. Here are our Wireframes and users journey we have for Swellbeing:
-[wireframe overview] (./docs/wireframe-overview.png)
-[wireframe landing page](./docs/wireframe-LandingPage.png)
-[wireframe admin dashboard](./docs/wireframe-admin_panel.png)
-[wireframe history](./docs/wireframe-history.png)
-[wireframe survey](./docs/wireframe-questions.png)
-[wireframe user dashboard](./docs/wireframe-user_dashboard.png)
-[wireframe survey results](./docs/wireframe-checkinResults.png)
+![wireframe overview](./docs/wireframe-overview.png)
+![wireframe landing page](./docs/wireframe-LandingPage.png)
+![wireframe admin dashboard](./docs/wireframe-admin_panel.png)
+![wireframe history](./docs/wireframe-history.png)
+![wireframe survey](./docs/wireframe-questions.png)
+![wireframe user dashboard](./docs/wireframe-user_dashboard.png)
+![wireframe survey results](./docs/wireframe-checkinResults.png)
 
 ### Project Management
 * While were together through most of development some days we communicated via Slack and kept a to do list on Trello
-[Trello](./docs/SS-Trello.png)
-[Slack](./docs/SS-slack.png)
+![Trello](./docs/SS-Trello.png)
+![Slack](./docs/SS-slack.png)
 
 ### Database
 * Meanwhile drawing wireframes we sketched our non relational database plan.
@@ -101,7 +101,7 @@ By default the server runs on Port 3000, so to view the live site on your local 
 ### Client Communication
 We met our client Ijan Kruizinga in person early on in the project to set the scope of the project as well as establish deliverables. By including our client in the design process, it ensured that our goals were aligned before any coding started. This was extremely useful, since face to face it was easier to understand the goals of our client, allowing us to change our planning of the app to be more focused on businesses. After the first few meetings, we kept in touch via email.
 
-[Email screenshot](./docs/SS-client-email.png)
+![Email screenshot](./docs/SS-client-email.png)
 
 Although less information can be communicated through emails, it was still preferable due to the availability of our client.
 
@@ -205,4 +205,5 @@ Our mentor, teachers and friends Garret Blankenship,James Lane, and James Holman
 # Share Our App [#](#table-of-contents)
 * [Link to website](http://swellbeing.s3-website-ap-southeast-2.amazonaws.com/)
 * [Link to repository](https://github.com/scottodea/swellbeing-front)
+* [Link to API repository](https://github.com/scottodea/swellbeing-back)
 
